@@ -199,4 +199,3 @@ __PATCH /api/v1/users/me/__ - Изменение данных своей уче�
 - :white_check_mark: [Тузовский Виктор](https://github.com/yumeko6)
 - :white_check_mark: [Баринов Денис](https://github.com/PythonGun)
 - :white_check_mark: [Владыко Ирина](https://github.com/VladykoIra)
-- 
